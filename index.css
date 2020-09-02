@@ -80,3 +80,11 @@
     color: azure;
     font-size: 33px;
 }
+
+.oAuthLogo{
+    width: 30px; 
+    height: 30px;
+    margin-left: -50px;
+    margin-right: 10px;
+
+}
