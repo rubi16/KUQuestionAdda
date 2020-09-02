@@ -1,0 +1,82 @@
+.back{
+    background-image: url('images/macbook1.jpg');
+    background-repeat: no-repeat;
+    background-position: 150px;
+    background-position-y: 45px;
+}
+
+.title{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+}
+
+.loginSection{
+    margin-left: 330px;
+    font-family: 'Ubuntu';
+    font-size: 18px;
+}
+
+.admin,.student{
+    font: 'Ubuntu';
+}
+
+#studentLogin{
+    font-family:  sans-serif;
+    width: 350px;
+    background: #ff7e5f;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #feb47b, #ff7e5f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #feb47b, #ff7e5f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.loginHeading{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+.submit{
+    transform: translateX(8%);
+    width: 300px;
+    border-radius: 50px;
+    font: 22px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.google,.facebook{
+    margin-bottom: 10px;
+}
+
+.register{
+    background-color: #b16e0a;
+}
+
+.upcomingExam{
+    font-family:  sans-serif;
+    width: 370px;
+    background: #ff7e5f;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #feb47b, #ff7e5f);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #feb47b, #ff7e5f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 18px;
+}
+
+.logo{
+    width: 70px;
+    height: 60px;
+    margin-right: 10px;
+    color: white;
+    margin-left: 2px;
+}
+
+.slider{
+    margin-top: 300px;
+    font-family: 'Montserrat';
+    color: azure;
+    font-size: 33px;
+}
