@@ -112,6 +112,9 @@
 	color: #fff8ab;
 	font-size: 4em;
 	text-shadow: 4px 4px 8px #000000;
+	background-color: rgba(97, 46, 4,0.3);
+	border-bottom: 4px solid  #fff8ab;
+	border-top: 4px solid  #fff8ab;
 	
 }
 
@@ -131,7 +134,7 @@
 .etm-card-body
 {
 	margin: 15px;
-	opacity: 0.7;
+	opacity: 0.9;
 	padding: 10px;
 	border: 1px groove #0c0875;
 	transition: width 0.5s, height 0.5s;
@@ -168,10 +171,12 @@
 
 .science_headline
 {
-	color: #080236;
+	color: #2ac1db;
 	font-size: 4em;
-	text-shadow: 5px 5px 7px #cad3fc;
-	
+	text-shadow: 5px 5px 7px #141936;
+	background-color: rgba(165, 166, 232,0.3);
+	border-top: 4px solid #2ac1db;
+	border-bottom:  4px solid #2ac1db;
 }
 
 .sc-body
@@ -201,7 +206,10 @@
 	color: #fafa2f;
 	font-size: 4em;
 	font-weight: 700;
-	text-shadow: 6px 6px #1a2b2a;
+	text-shadow: 6px 6px 4px #1a2b2a;
+	background-color: rgba(240, 158, 200,0.3);
+	border-bottom: 4px solid #fafa2f;
+	border-top: 4px solid #fafa2f;
 }
 
 .arts-body
@@ -228,10 +236,13 @@
 
 .ed_headline
 {
-	color: #025224;
+	color:#f5ee93;
 	font-size: 3.5em;
 	font-weight: 700;
-	text-shadow: 6px 8px 5px #97f7e7;
+	text-shadow: 7px 7px 5px #010770;
+	background-color: rgba(10, 74, 25,0.3);
+	border-bottom: 4px solid #f5ee93;
+	border-top:  4px solid #f5ee93;
 }
 
 .ed-body
@@ -261,6 +272,9 @@
 	font-size: 3.5em;
 	font-weight: 700;
 	text-shadow: 6px 6px 5px #97f7e7;
+	background-color: rgba(31, 32, 99,0.4);
+	border-top: 4px solid #06004a;
+	border-bottom: 4px solid #06004a;
 }
 
 .comm-card
@@ -269,7 +283,7 @@
 	margin-right: auto;
 	width: 25%;
 	border:1px groove #0c0875;
-	opacity: 0.7;
+	opacity: 0.9;
 	padding: 10px; 
 	transition: width 0.5s, height 0.5s;
 	margin-top: 30px;
@@ -288,7 +302,7 @@
 
 .commerce-body
 {
-	background-image: linear-gradient(to right ,#ffffff,#5cf7ea,#e1fa52,#7e8796,#1264fc,#7e8796,#e1fa52,#5cf7ea,#ffffff);
+	background-image: linear-gradient(to right ,#ffffff,#5cf7ea,#e1fa52,#ffffff,#e1fa52,#5cf7ea,#ffffff);
 
 }
 
