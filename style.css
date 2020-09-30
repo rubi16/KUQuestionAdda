@@ -1,15 +1,13 @@
-
 #nav-bar:
 {
 	position: sticky;
 	top: 0;
 	z-index: 10;
 }
+
 .navbar
 {
 	background-image: linear-gradient(to right, #080136, #34e7f7);
-
-
 }
 
 .navbar-nav li a
@@ -23,19 +21,14 @@
 .fa-bars
 {
 	font-size: 20px ;
-	color: #1b0000;
-	font-weight: 
+	color: #1b0000; 
 }
-
-
-
 
 .topbox
 {
 	padding-top: 100px;
 	margin: 20px;
 	background-image: url(topboximg.jpg);
-
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-bottom: 50px;
@@ -48,7 +41,6 @@
 	margin: 10px;
 	font-size: 3em;
     text-align: center;
-
 }
 
 .para
@@ -79,7 +71,7 @@
 {
 	color: #0c0036;
 	text-align: center;
-	font-weight: 500
+	font-weight: 500;
 }
 
 /*Etm faculty*/
@@ -87,7 +79,6 @@
 .etm_body
 {
   background-image: linear-gradient(to bottom right,#ffffff,#ffffff,#ffffff,#fff0a3,#ffffff,#17e1e8);
-  	
 }
 
 .etm_heading
@@ -103,8 +94,6 @@
 	margin-top: 20px;
 	margin-bottom: 20px;
 	box-shadow: 10px 10px 6px #402e05;
-	
-
 }
 
 .etm_headline
@@ -115,10 +104,7 @@
 	background-color: rgba(97, 46, 4,0.3);
 	border-bottom: 4px solid  #fff8ab;
 	border-top: 4px solid  #fff8ab;
-	
 }
-
-
 
 .row_style
 {
@@ -126,10 +112,7 @@
 	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
-	
 }
-
-
 
 .etm-card-body
 {
@@ -138,8 +121,8 @@
 	padding: 10px;
 	border: 1px groove #0c0875;
 	transition: width 0.5s, height 0.5s;
-	
 }
+
 .etm-card-body:hover
 {
 	opacity: 2.0;
@@ -164,9 +147,6 @@
 	margin-top: 20px;
 	margin-bottom: 20px;
 	box-shadow: 10px 10px 6px #402e05;
-
-	
-
 }
 
 .science_headline
@@ -303,7 +283,6 @@
 .commerce-body
 {
 	background-image: linear-gradient(to right ,#ffffff,#5cf7ea,#e1fa52,#ffffff,#e1fa52,#5cf7ea,#ffffff);
-
 }
 
 
